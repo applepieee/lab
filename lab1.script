@@ -1,0 +1,20 @@
+命令稿啟動於 2018年03月16日 上午 01:30:03
+]0;/cygdrive/d/c++/lab
+[32mpeter@jack [33m/cygdrive/d/c++/lab[0m
+$ whoami;pwd
+peter
+/cygdrive/d/c++/lab
+]0;/cygdrive/d/c++/lab
+[32mpeter@jack [33m/cygdrive/d/c++/lab[0m
+$ git clone https://github.com/applepieee/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 12, done.[K
+remote: Compressing objects:  11% (1/9)   [Kremote: Compressing objects:  22% (2/9)   [Kremote: Compressing objects:  33% (3/9)   [Kremote: Compressing objects:  44% (4/9)   [Kremote: Compressing objects:  55% (5/9)   [Kremote: Compressing objects:  66% (6/9)   [Kremote: Compressing objects:  77% (7/9)   [Kremote: Compressing objects:  88% (8/9)   [Kremote: Compressing objects: 100% (9/9)   [Kremote: Compressing objects: 100% (9/9), done.[K
+Unpacking objects:   8% (1/12)   Unpacking objects:  16% (2/12)   Unpacking objects:  25% (3/12)   Unpacking objects:  33% (4/12)   Unpacking objects:  41% (5/12)   Unpacking objects:  50% (6/12)   remote: Total 12 (delta 1), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  58% (7/12)   Unpacking objects:  66% (8/12)   Unpacking objects:  75% (9/12)   Unpacking objects:  83% (10/12)   Unpacking objects:  91% (11/12)   Unpacking objects: 100% (12/12)   Unpacking objects: 100% (12/12), done.
+]0;/cygdrive/d/c++/lab
+[32mpeter@jack [33m/cygdrive/d/c++/lab[0m
+$ exit
+
+命令稿已於 2018年03月16日 上午 01:30:41
+ 完成
